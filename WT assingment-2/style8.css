@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://img.theweek.in/content/dam/week/news/health/images/2019/2/13/human-space-man-space-travel-astronaut-shutterstock.jpg");
+    background-size: 1500px;
+}
+h1 {
+    color: aliceblue;
+    height: 50px;
+    width: 1250px;
+    text-decoration:underline;
+    text-align: center;
+}
+.class
+
+{
+    width: 1200px;
+    margin-left: 10%;
+    color: white;
+    font-size:xx-large;
+    text-align: center;
+}

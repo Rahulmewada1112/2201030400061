@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/320215-space-Earth-moon.jpg") ;
+    background-size: cover;
+  }
+  
+  .slide {
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    line-height: 30px;
+    font-size: 15px;
+  }
+  
+  h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  .links {
+    margin-top: 20px;
+    
+  }
+  
+  .link {
+      width: 100px;
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: large;
+      font-weight: 800;
+      
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 40px;
+    margin-right: 10px;
+    background: #ffffff;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+  }
+  
+  .link:hover {
+    background: #e0e0e0;
+   
+  }
+  
+  .thumbnail {
+    margin-top: 20px;
+  }
+  
+  .thumbnail img {
+    width: 200px;
+    height: auto;
+    margin-left: 700px;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+  
+  .download {
+      text-align: center;
+      width: 120px;
+      margin-left: 700px;
+    display: inline-block;
+    padding: 10px;
+    background: #000000;
+    color: #ffffff;
+    border-radius: 10px;
+     }
+  .download:hover {
+      background: #e0e0e0;
+      
+  }
